@@ -1,3 +1,5 @@
+-- works since being pushed, you may need to manually update some info in here
+
 local function GetModuleHandleA()
     return 0x400000
 end
